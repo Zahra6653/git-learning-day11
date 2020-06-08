@@ -1,0 +1,4 @@
+int div()
+{
+return 8/4;
+}
