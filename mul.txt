@@ -1,0 +1,4 @@
+int mul()
+{
+return 5*7;
+}
