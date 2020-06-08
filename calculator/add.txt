@@ -1,3 +1,4 @@
-int add(){
-reurn 2+3;
+int add()
+int a=2,b=6,c=9;
+reurn a+b+c;
 }
